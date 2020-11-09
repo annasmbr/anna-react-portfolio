@@ -1,1 +1,1 @@
-# Anna React Portfolio Apllication
+# Anna React Portfolio Application
